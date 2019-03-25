@@ -47,7 +47,7 @@ In this project, I'll go through the data analysis process and see how everythin
 
 This project contains :
 
-Investigate-a-data-set.ipynb, the Jupyter Notebook containing all the work.
+Investigate_a_Dataset.ipynb, the Jupyter Notebook containing all the work.
 
 #### Dataset file
 
