@@ -18,8 +18,7 @@
     - [Execution](#execution)<br>
 - [Conclusion](#conclusion)<br>
     - [What I learned](#what-i-learned)<br>
-    - [Evaluation](#evaluation)<br>
-    - [Results](#results)
+
 
 ----
 
@@ -109,6 +108,4 @@ This will open the Jupyter/iPython Notebook software and project file/folder in 
  - Last but not least, Know how to use Matplotlib and Seaborn to produce plots showing findings.
  
 
-#### Evaluation
-My project was reviewed by a Udacity reviewer.  
 ----
