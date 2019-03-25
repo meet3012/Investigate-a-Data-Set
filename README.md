@@ -1,10 +1,7 @@
 # Investigate-a-Data-Set
 
-# My Third Project in Machine Learning Foundation Nanodegree
-# Investigate a Dataset
-## Project: Investigate TMDb Movie Database 
 
-<p align="center"><img src="logo.jpg"></p>
+## Project: Investigate TMDb Movie Database 
 
 ----
 
