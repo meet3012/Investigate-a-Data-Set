@@ -110,6 +110,5 @@ This will open the Jupyter/iPython Notebook software and project file/folder in 
  
 
 #### Evaluation
-My project was reviewed by a Udacity reviewer against the **<a href="https://review.udacity.com/#!/projects/3176718735/rubric" target="_blank">Investigating a Dataset rubric</a>**. All criteria found in the rubric must be *meeting specifications* for me to pass.
-
+My project was reviewed by a Udacity reviewer.  
 ----
